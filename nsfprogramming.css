@@ -1,0 +1,32 @@
+body{
+text-align: center;
+color: #000000;
+background-color: #d1faff;
+}
+#info{
+	font-size: 25px;
+}
+#h1{
+	font-size: 50px;
+}
+#projectsintro{
+	font-size: 25px;
+}
+#projects{
+	font-size: 24px;
+}
+#creation{
+	font-size: 23px;
+}
+a:link{
+	color: #2600ff;
+}
+a:visited{
+	color: #db0f0f;
+}
+a:hover{
+	color: #a90fb7;
+}
+a:active{
+	color: #ff8402;
+}
